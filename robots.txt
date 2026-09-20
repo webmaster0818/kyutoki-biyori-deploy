@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kyutoki-biyori.com/sitemap.xml
+Sitemap: https://kyutoki-biyori-deploy.pages.dev/sitemap.xml
