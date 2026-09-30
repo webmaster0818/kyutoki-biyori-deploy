@@ -1,6 +1,6 @@
-# 給湯器交換ナビ
+# 給湯器プロ比較ナビ
 
-> 給湯器交換ナビ は、株式会社MediaXが運営する比較・情報サイトです。利用者が信頼できる情報をもとに最適な選択ができるよう、独自調査・データに基づくコンテンツを公開しています。
+> 給湯器プロ比較ナビ は、株式会社MediaXが運営する比較・情報サイトです。利用者が信頼できる情報をもとに最適な選択ができるよう、独自調査・データに基づくコンテンツを公開しています。
 
 ## サイトポリシー
 
@@ -12,17 +12,23 @@
 
 ## 主要コンテンツ
 
-- トップページ: https://bousui-navi-deploy.pages.dev/
-- プライバシーポリシー: https://bousui-navi-deploy.pages.dev/privacy-policy (または /privacy)
-- 利用規約: https://bousui-navi-deploy.pages.dev/terms (または /terms-of-service)
-- サイトマップ: https://bousui-navi-deploy.pages.dev/sitemap.xml
+- トップページ: https://kyutoki-biyori-deploy.pages.dev/
+- 掲載社の口コミ・評判一覧: https://kyutoki-biyori-deploy.pages.dev/review/
+- 項目別の横断比較: https://kyutoki-biyori-deploy.pages.dev/compare/
+- エリア別の対応状況: https://kyutoki-biyori-deploy.pages.dev/area/
+- 給湯器の基礎知識: https://kyutoki-biyori-deploy.pages.dev/guide/
+- 状況別に確認する: https://kyutoki-biyori-deploy.pages.dev/case/
+- プライバシーポリシー: https://kyutoki-biyori-deploy.pages.dev/privacy/
+- 利用規約: https://kyutoki-biyori-deploy.pages.dev/terms/
+- 記事の制作ポリシー: https://kyutoki-biyori-deploy.pages.dev/content-policy/
+- サイトマップ: https://kyutoki-biyori-deploy.pages.dev/sitemap.xml
 
 ## クローラー向けポリシー
 
 - AI クローラー (GPTBot / ClaudeBot / PerplexityBot / Google-Extended 等) のアクセスを許可しています
-- 詳細は https://bousui-navi-deploy.pages.dev/robots.txt を参照してください
+- 詳細は https://kyutoki-biyori-deploy.pages.dev/robots.txt を参照してください
 - 引用時は本ドメインへのリンクを残していただくようお願いします
 
 ## 最終更新
 
-2026-05-21
+2026-09-30
